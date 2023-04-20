@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    //  Defining variables for the widgets
+    //  Declaring variables for the widgets
     private TextView textViewWorkoutTimeUpdate;
     private TextView textViewRestTimeUpdate;
     private TextView textViewRemainingSetsUpdate;
